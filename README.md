@@ -3,7 +3,10 @@ Open NetBeans IDE and create a new Java project with the name ElectricityManagem
 
 Make sure you have MySQL server and Workbench installed on your system.
 Download these two jar files and images.
-https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download
-https://dev.mysql.com/downloads/connector/j/
+**https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download**
+
+**https://dev.mysql.com/downloads/connector/j/**
 
 Now we need to add the dependencies of the project. Expand the project and right-click on libraries, click on add jar/folder and browse the two jar file you have downloaded from above and add them. You also need to keep all the images in the icon folder.
+
+**if you occur any problem then ping me on rashiqueparvez8538@gmail.com**
